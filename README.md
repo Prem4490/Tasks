@@ -17,9 +17,10 @@ Unzip the file email-client-0.0.1-SNAPSHOT.zip file
 to start the application java -jar email-client-0.0.1-SNAPSHOT.jar
 
 Once the application is started. You can run the below curl commands,
+
 **Note: 
 In emailTo Address, Instead of provideyourid@gmail.com , please provide valid gmail 
-Add backslash(\) for the "" in json --data to preserve the "", or click Edit and copy the curl command)**
+Add backslash(\) for the "" in json --data to preserve the "", or click Edit or click Raw option and copy the curl command)**
 
 **Scenario 1:** Sending a plain text email to an outside resource, with a disclaimer added at the end, unencrypted and no retry
 
